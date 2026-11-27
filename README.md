@@ -59,4 +59,4 @@ No activity tracked
 
 
 
-<img src="https://raw.githubusercontent.com/femasarianda/FemasAriandaRizki/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/femasarianda/femasarianda/output/snake.svg" alt="Snake animation" />
